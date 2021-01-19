@@ -234,7 +234,7 @@ const GameScreen = () => {
 
         <View style={styles.txtBox}>
           <Text style={styles.txtMessage}>
-            The Combination of Above Two Color Generate which gradient ?
+            The Combination of Above Four Color Generate which gradient ?
           </Text>
         </View>
 
